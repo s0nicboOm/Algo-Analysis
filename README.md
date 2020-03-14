@@ -1,5 +1,4 @@
 # COMPARING ANALYZING SORTING TECHNIQUES FOR FILES OF DIFFERENT SIZE
-ALGO assignment
 
 ### Software Specifications
 
